@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T15:59:35.143Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0" etag="knqTUKhVTZfRupvI110O" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T17:21:40.840Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0" etag="y6euRyllu5HXnlJXr7fZ" version="21.1.8" type="github">
   <diagram name="Page-1" id="uP2ISM71yryUAKii5rDf">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-1" value="MQOL" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-2" value="EQ5D5L" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-3" value="SEIQoL" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-5" value="NIV" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-6" value="Gastrostomy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-7" value="King&#39;s staging" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-8" value="Social care" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-9" value="Palliative care" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-10" value="Counselling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-11" value="ED visit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-14" value="Health care experience" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-15" value="Riluzole" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-16" value="Amitriptyline" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-17" value="Quinine" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-18" value="Gabapentin sandoz" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-19" value="Mucodyne" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-20" value="Artificial saliva spray" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="545" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-21" value="Carbocisteine" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-22" value="Lansoprazole" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-23" value="Baclofen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-24" value="Lansoprazole" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-25" value="Citalopram" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="650" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-26" value="Lithium orotate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="710" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-28" value="Vitamin D3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="680" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ5AXatt4aCwn8vywfUO-29" value="Desunin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
