@@ -1,0 +1,2 @@
+I found it difficult to find the weights for making EQ5D5L index values for each country included in the ALS CarE study so I published the ones
+I have been using on the following webpage which I'll update as I go along: https://weinerrb.github.io/QualityOfLife/
